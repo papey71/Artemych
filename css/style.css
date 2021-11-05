@@ -171,7 +171,6 @@
     
     .content1 h1 {
         position: absolute;
-        width: 400px;
         left: 589px;
         top: 200px;
         font-family: 'Montserrat';
@@ -804,7 +803,7 @@
 
     .content-bg-phone {
         position: absolute;
-        top: 0;
+        top: 40px;
         left: 0;
         z-index: -100;
         position: fixed;
@@ -812,6 +811,7 @@
 
     .content1 h1 {
         position: absolute;
+        width: 355px;
         left: 41px;
         top: 178px;
         font-family: 'Montserrat';
