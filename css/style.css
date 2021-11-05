@@ -62,9 +62,9 @@
                                 /* header */
     
 
-    /* header {
+    header {
         position: absolute
-    } */
+    }
 
     .header-bg {
         position: absolute;
@@ -171,6 +171,7 @@
     
     .content1 h1 {
         position: absolute;
+        width: 355px;
         left: 589px;
         top: 200px;
         font-family: 'Montserrat';
@@ -1246,6 +1247,7 @@
 
     footer p {
         position: absolute;
+        width: 185px;
         left: 211px;
         top: 3107px;
         font-family: 'Montserrat';
