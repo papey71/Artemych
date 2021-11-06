@@ -797,7 +797,8 @@
                                 /* content1 */
 
     .content-bg-phone {
-        top: 50px;
+        position: absolute;
+        top: 40px;
         left: 0;
         z-index: -100;
         position: fixed;
