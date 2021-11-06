@@ -35,6 +35,10 @@
         display: none;
     }
 
+    .content-bg-laptop {
+        display: none;
+    }
+
     .arrow-left-phone {
         display: none;
     }
@@ -52,6 +56,14 @@
     }
 
     .img3-phone {
+        display: none;
+    }
+
+    .logo2 {
+        display: none;
+    }
+
+    .menu-burger {
         display: none;
     }
 
@@ -172,7 +184,8 @@
     .content-bg {
         position: fixed;
         left: 0px;
-        top: 140px;
+        top: 0px;
+        height: 100%;
         z-index: -10;
     }
     
@@ -540,7 +553,7 @@
         display: block;
         position: relative;
         left: 0px;
-        top: 1303px;    
+        top: 2208px;    
     }
     
     .content5 .bg5 {
@@ -1004,7 +1017,6 @@
     }
 
     header {
-        
         top: 0;
         left: 0;
     }
@@ -1133,7 +1145,7 @@
 
     .content-bg-phone {
         position: fixed;
-        top: 0;
+        top: 40;
         left: 0;
         z-index: -100;
     }
