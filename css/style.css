@@ -1145,7 +1145,7 @@
 
     .content-bg-phone {
         position: fixed;
-        top: 40;
+        top: 0;
         left: 0;
         z-index: -100;
     }
