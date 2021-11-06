@@ -797,11 +797,14 @@
                                 /* content1 */
 
     .content-bg-phone {
-        position: absolute;
-        top: 40px;
+        position: fixed;
+        top: 0;
         left: 0;
         z-index: -100;
-        position: fixed;
+    }
+
+    .content-bg-phone div {
+        position: absolute;
     }
 
     .content1 h1 {
