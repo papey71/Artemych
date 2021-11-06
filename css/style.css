@@ -60,11 +60,6 @@
     }
     
                                 /* header */
-    
-
-    header {
-        position: fixed;
-    }
 
     .header-bg {
         position: absolute;
@@ -802,7 +797,6 @@
                                 /* content1 */
 
     .content-bg-phone {
-        position: absolute;
         top: 40px;
         left: 0;
         z-index: -100;
